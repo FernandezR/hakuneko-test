@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Cloudflare: Email Obfuscation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+    <body>
+        <p>This page is protected by CloudFlare's <strong><i>Email Obfuscation</i></strong></p>
+        <hr>
+        <table cellpadding="4">
+            <tr>
+                <td>Plain mail:</td>
+                <td>contact@secret.mail</td>
+            </tr>
+            <tr>
+                <td>Anchor without link:</td>
+                <td><a>contact@secret.mail</a></td>
+            </tr>
+            <tr>
+                <td>Anchor with mail link:</td>
+                <td><a href="mailto:contact@secret.mail">contact@secret.mail</a></td>
+            </tr>
+            <tr>
+                <td>Anchor with mail link only:</td>
+                <td><a href="mailto:contact@secret.mail">Contact</a></td>
+            </tr>
+        </table>
+        <hr>
+        <textarea rows="24" cols="96">
+<table cellpadding="4">
+    <tr>
+        <td>Plain mail:</td>
+        <td>contact@secret.mail</td>
+    </tr>
+    <tr>
+        <td>Anchor without link:</td>
+        <td><a>contact@secret.mail</a></td>
+    </tr>
+    <tr>
+        <td>Anchor with mail link:</td>
+        <td><a href="mailto:contact@secret.mail">contact@secret.mail</a></td>
+    </tr>
+    <tr>
+        <td>Anchor with mail link only:</td>
+        <td><a href="mailto:contact@secret.mail">Contact</a></td>
+    </tr>
+</table>
+        </textarea>
+    </body>
+</html>
