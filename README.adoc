@@ -21,7 +21,7 @@ The `cloudflare` sub-directory contains webpages which uses various CloudFlare p
 .Test Resources
 |===
 | link:https://support.cloudflare.com/hc/en-us/articles/205177068-How-does-Cloudflare-work-[DNS/CDN Only] | https://test.hakuneko.download/cloudflare/index.html
-| link:https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-[E-Mail Obfuscation] | https://test.hakuneko.download/cloudflare/mail.html
-| link:https://support.cloudflare.com/hc/en-us/articles/200170076-Understanding-Cloudflare-Under-Attack-mode[JavaScript Challenge] | https://test.hakuneko.download/cloudflare/challenge.html
-| link:https://support.cloudflare.com/hc/en-us/articles/200170136-Understanding-Cloudflare-Challenge-Passage-Captcha-[Captcha Challenge] | https://test.hakuneko.download/cloudflare/captcha.html
+| link:https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-[E-Mail Obfuscation] | https://cloudscraper.cf/cloudflare/mail.html
+| link:https://support.cloudflare.com/hc/en-us/articles/200170076-Understanding-Cloudflare-Under-Attack-mode[JavaScript Challenge] | https://cloudscraper.cf/cloudflare/challenge.html
+| link:https://support.cloudflare.com/hc/en-us/articles/200170136-Understanding-Cloudflare-Challenge-Passage-Captcha-[Captcha Challenge] | https://cloudscraper.cf/cloudflare/captcha.html
 |===
